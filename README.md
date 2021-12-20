@@ -7,7 +7,7 @@ I used (concentric_transition: ^1.0.1+1) plugin to create this views using Conce
 ## Demo
 
 
-https://res.cloudinary.com/dc0tfxkph/image/upload/v1640023973/WhatsApp_Video_2021-12-20_at_11.30.58_PM.gif
+<img src="./demo.gif" alt="Demo" width="500" height="600">"/>
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/dc0tfxkph/image/upload/v1640023495/WhatsApp_Image_2021-12-20_at_11.32.21_PM_1.jpg)
