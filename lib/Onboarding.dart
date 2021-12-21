@@ -40,7 +40,7 @@ final data = [
     subtitleColor: Colors.white,
         //background: "https://assets4.lottiefiles.com/dotlotties/dlf10_6nh2dc7z.lottie",
 
-  ),
+  ),//This is sudeeps contribution
   Items(
     title: "FAST SHIPING",
     subtitle: "Fast and safe shiping accross globe",
